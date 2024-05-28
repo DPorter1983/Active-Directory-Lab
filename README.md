@@ -20,7 +20,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="desktopfolder/windowscreenshots/windowscreen.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="desktopfolder/windowscreen.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
