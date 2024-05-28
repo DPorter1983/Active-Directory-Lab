@@ -20,7 +20,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src=desktop/windowscreen.png) height="144%" width="144%" alt="Active Directory Lab"/>
+<img src=desktop/windowscreen.png) height="144" width="144" alt="Active Directory Lab"/>
 <br />
 <br />
 Select the disk:  <br/>
