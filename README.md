@@ -18,7 +18,7 @@ Launch Server Manager and opening Active Directory: <br/>
 <img width="1243" alt="Screen Shot 2024-05-18 at 09 52 56 1" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/654b4810-3979-4d56-9f11-95005a0258b6">
 <br />
 <br />
-The Home Screen for Windows show the Domain as DCTECHBIZk:  <br/>
+The Home Screen for Windows show the Domain as DCTECHBIZ:  <br/>
  
  
  <img width="1237" alt="windows screen2024-05-18 at 09 52 56" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/cbd5f01d-4398-40cc-a691-73fa6bdba2a5">
