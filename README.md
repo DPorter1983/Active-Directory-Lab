@@ -26,7 +26,8 @@ Launch the utility: <br/>
 <br />
 Select the disk:  <br/>
  
-<img width="1440" alt="Screen Shot 2024-05-18 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/e927defd-b141-4539-86d2-f212afcce170">
+<img width="1238" alt="Screen Shot 2024-05-18 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/12741e4b-5f70-4e34-af5d-37ad7815e77f">
+
 
 <!--
  ```diff
