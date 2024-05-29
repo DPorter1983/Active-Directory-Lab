@@ -12,7 +12,7 @@ Project consists of a simple walk through with setting up Active Directory, Addi
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Active Directory</b> 
 
 <h2>Program walk-through:</h2>
 
