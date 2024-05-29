@@ -24,7 +24,7 @@ The Home Screen for Windows show the Domain as DCTECHBIZk:  <br/>
  <img width="1237" alt="windows screen2024-05-18 at 09 52 56" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/cbd5f01d-4398-40cc-a691-73fa6bdba2a5">
 <br />
 <br />
-Screen for New User to be added to the Doamin:  <br/>
+Screen for New User to be added to the Domain:  <br/>
  
 <img width="1237" alt="Screen Shot 2024-05-18 at 09 52 56 3" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/36e26513-c6a5-4046-a675-3f31cc0f3f0c">
 
