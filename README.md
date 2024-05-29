@@ -17,7 +17,7 @@ Project consists of a simple walk through with setting up Active Directory, Addi
 <p align="center">
 Launch the utility: <br/>
 
-<img width="1440" alt="Screen Shot 2024-05-18 at 09 52 56 1" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/819319da-6922-4139-92a0-d2e5e386c407">
+<img width="1243" alt="Screen Shot 2024-05-18 at 09 52 56 1" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/654b4810-3979-4d56-9f11-95005a0258b6">
 
  
  
