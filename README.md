@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple walk through with setting up Active Directory, Adding Users, resetting passwords, and enabling Group Policy
+Project consists of a simple walk through with setting up Active Directory, Adding Users, resetting passwords,enabling Group Policy and Adding Computer to Domain Controller
 
 
   
