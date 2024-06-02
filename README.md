@@ -33,4 +33,9 @@ The User have to create password before signing into the domain <br/>
  
 <img width="1240" alt="Screen Shot 2024-05-30 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/15728926-8158-4a87-bb9b-a9b1ceb1edad">
 
+<br />
+<br />
+This is the confirmation that the user account is setup to the domain <br/>
+
+ <img width="1242" alt="Screen Shot 2024-05-30 at 09 52 56 3" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/1e8034c9-b37e-4891-bab8-6b84dc7a5608">
 
