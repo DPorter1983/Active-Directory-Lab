@@ -18,22 +18,19 @@ Launch Server Manager and opening Active Directory: <br/>
 <img width="1243" alt="Screen Shot 2024-05-18 at 09 52 56 1" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/654b4810-3979-4d56-9f11-95005a0258b6">
 <br />
 <br />
-The Home Screen for Windows show the Domain as DCTECHBIZ:  <br/>
+The Home Screen for Windows show the Domain as DCTECHBIZ  <br/>
  
  
  <img width="1237" alt="windows screen2024-05-18 at 09 52 56" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/cbd5f01d-4398-40cc-a691-73fa6bdba2a5">
 <br />
 <br />
-Screen for New User to be added to the Domain:  <br/>
+Screen for New User to be added to the Domain  <br/>
  
-<img width="1237" alt="Screen Shot 2024-05-18 at 09 52 56 3" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/36e26513-c6a5-4046-a675-3f31cc0f3f0c">
+<img width="1238" alt="Screen Shot 2024-05-30 at 09 52 56 1" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/f5b7f897-603d-4f51-9dfe-4ad013667e35">
+<br />
+<br />
+The User have to create password before signing into the domain <br/>
+ 
+<img width="1240" alt="Screen Shot 2024-05-30 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/15728926-8158-4a87-bb9b-a9b1ceb1edad">
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
