@@ -58,4 +58,11 @@ The group selected is Domain Admins <br/>
 <br />
 The group selected is Domain Admins <br/>
 <img width="1244" alt="Screen Shot 2024-06-04 at 09 52 56 3" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/5d42d31d-a71e-43da-a59f-a193b519c04e">
-
+<br />
+<br />
+The user password changed <br/>
+<img width="1440" alt="Screen Shot 2024-06-04 at 09 52 56 5" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/64ab0869-076c-45a0-9643-0fa3069009f8">
+<br />
+<br />
+This is conformation the password cahnged <br/>
+<img width="1440" alt="Screen Shot 2024-06-04 at 09 52 56 5" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/fca032db-b893-4701-97e9-9de64c0d211c">
