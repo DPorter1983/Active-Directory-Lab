@@ -54,6 +54,8 @@ The user is going to be added to the admin group "Member of" tab is selected <br
 <br />
 The group selected is Domain Admins <br/>
 <img width="1239" alt="Screen Shot 2024-06-04 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/0170e3bd-3d08-4e9c-b45e-e1aeb05c4adf">
-
-
+<br />
+<br />
+The group selected is Domain Admins <br/>
+<img width="1244" alt="Screen Shot 2024-06-04 at 09 52 56 3" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/5d42d31d-a71e-43da-a59f-a193b519c04e">
 
