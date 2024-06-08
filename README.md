@@ -41,7 +41,7 @@ This is the confirmation that the user account is setup to the domain <br/>
  <img width="1242" alt="Screen Shot 2024-05-30 at 09 52 56 3" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/1e8034c9-b37e-4891-bab8-6b84dc7a5608">
 <br />
 <br />
-The user is and Admin for this Domain <br/>
+The user is an Admin for this Domain <br/>
 
 
 <img width="1235" alt="Screen Shot 2024-05-30 at 09 52 56 4" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/104c2bfd-d3a0-4e7e-821e-72016e4cd339">
