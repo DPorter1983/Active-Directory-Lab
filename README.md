@@ -47,7 +47,7 @@ The user is and Admin for this Domain <br/>
 <img width="1235" alt="Screen Shot 2024-05-30 at 09 52 56 4" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/104c2bfd-d3a0-4e7e-821e-72016e4cd339">
 <br />
 <br />
-The user is going to be added to the admin group "Memner of" tab is selected <br/>
+The user is going to be added to the admin group "Member of" tab is selected <br/>
 
 <img width="1235" alt="Screen Shot 2024-06-04 at 09 52 56" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/aab9694a-c161-4bdd-bdd5-5ff660090e71">
 <br />
@@ -57,4 +57,3 @@ The user is going to be added to the admin group "Memner of" tab is selected <br
 
 
 
-<img width="1239" alt="Screen Shot 2024-06-04 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/fdf97dcd-0462-4d6b-90e5-06a57db51e63">
