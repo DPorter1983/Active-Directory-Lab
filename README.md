@@ -52,7 +52,7 @@ The user is going to be added to the admin group "Member of" tab is selected <br
 <img width="1235" alt="Screen Shot 2024-06-04 at 09 52 56" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/aab9694a-c161-4bdd-bdd5-5ff660090e71">
 <br />
 <br />
-The user is going to be added to the admin group "Memner of" tab is selected <br/>
+The group selected is Domain Admins <br/>
 <img width="1239" alt="Screen Shot 2024-06-04 at 09 52 56 2" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/0170e3bd-3d08-4e9c-b45e-e1aeb05c4adf">
 
 
