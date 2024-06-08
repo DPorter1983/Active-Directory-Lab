@@ -65,4 +65,4 @@ The user password changed <br/>
 <br />
 <br />
 This is conformation the password cahnged <br/>
-<img width="1440" alt="Screen Shot 2024-06-04 at 09 52 56 5" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/fca032db-b893-4701-97e9-9de64c0d211c">
+<img width="1232" alt="Screen Shot 2024-06-04 at 09 52 56 5" src="https://github.com/DPorter1983/Active-Directory-Lab/assets/169942990/7a806030-e9a5-435f-8037-8d30aded0d63">
